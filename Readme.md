@@ -24,3 +24,4 @@ This directory contains Java code examples demonstrating the SOLID principles of
 ## Resources
 
 (This section will be updated with links to books, articles, and courses used during the learning process.)
+youtube:https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=Y6omNwS8ZSnOg-la
